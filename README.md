@@ -4,7 +4,7 @@
 - Typescript, React.js
 
 ### Backend
-- Express Framework
+- Express.js
 
 ### Infra
 - MongoDB
